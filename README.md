@@ -17,11 +17,14 @@
 
 ## 🚀 Projects
 
+🔹**Bibliotech** - Sistema ferramenta para acervo de livros de uma biblioteca
+
 🔹 **RestTail** — Sistema para gestão de clínica veterinária, pet shop e planos para pets.
 
 🔹 **Projetos Java** — Aplicações desenvolvidas para praticar POO, encapsulamento, herança e outras técnicas de programação.
 
 🔹 **Projetos Android** — Aplicativos desenvolvidos com Java e Android Studio.
+
 
 ## 📊 GitHub
 
