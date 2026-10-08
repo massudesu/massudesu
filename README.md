@@ -1,16 +1,24 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=header"/>
 
-<!--
-**massudesu/massudesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38BDF8&size=30&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Vitor!;Welcome+to+my+GitHub!;Coding,+building,+and+asking+"what+if...+🤔")](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+</p>
+
+## 📊 GitHub
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=VitorAlencarAraujo&show_icons=true&theme=dark&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAlencarAraujo&layout=compact&theme=dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+## ☕ Building, learning, and evolving...
