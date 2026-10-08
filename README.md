@@ -9,7 +9,7 @@
 🚀 Interessado em backend, desenvolvimento web e criação de sistemas
 🧠 Sempre aprendendo novas tecnologias e transformando ideias em projetos
 
-## 🛠️ Technologies
+## My Stacks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode,androidstudio,spring" />
