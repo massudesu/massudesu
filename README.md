@@ -6,30 +6,35 @@
 
 <div align="center">
 
-<!-- Azul-marinho -->
-<img src="https://img.shields.io/badge/LINUX-10213D?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GIT-142947?style=for-the-badge&logo=git&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/GITHUB-182F52?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/JAVA-203D66?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SPRING_BOOT-24436D?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+<!-- Crimson escuro -->
 
-<!-- Azul intermediário -->
-<img src="https://img.shields.io/badge/JAVASCRIPT-284A75?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/MYSQL-375E89?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/HTML5-3C6590?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CSS3-416B97?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/LINUX-5C001F?style=for-the-badge&logo=linux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GIT-700025?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GITHUB-85002B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PYTHON-99002F?style=for-the-badge&logo=python&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JAVA-99002F?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/SPRING_BOOT-A60032?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
 
-<!-- Azul-claro -->
-<img src="https://img.shields.io/badge/FIGMA-5480B0?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/NOTION-5B88B8?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/CLAUDE-6592C1?style=for-the-badge&logo=claude&logoColor=FFFFFF" />
+<!-- Crimson intermediário -->
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-B8103D?style=for-the-badge&logo=javascript&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MYSQL-C91B46?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/HTML5-D32650?style=for-the-badge&logo=html5&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CSS3-DE3159?style=for-the-badge&logo=css3&logoColor=FFFFFF" />
+
+<!-- Crimson claro -->
+
+<img src="https://img.shields.io/badge/FIGMA-E64B6D?style=for-the-badge&logo=figma&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/NOTION-EB5D7C?style=for-the-badge&logo=notion&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/CLAUDE-F0718C?style=for-the-badge&logo=claude&logoColor=FFFFFF" />
 
 </div>
+
 ## 👨‍💻 About Me
 
-🎓 Técnico em Desenvolvimento de Sistemas
-💻 Estudante de programação e desenvolvimento de software
-🚀 Interessado em backend, desenvolvimento web e criação de sistemas
+🎓 Técnico em Desenvolvimento de Sistemas <br>
+💻 Estudante de programação e desenvolvimento de software <br>
+🚀 Interessado em backend, desenvolvimento web e criação de sistemas <br>
 🧠 Sempre aprendendo novas tecnologias e transformando ideias em projetos
 
 
