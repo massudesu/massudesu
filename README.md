@@ -30,25 +30,6 @@
 
 </div>
 
-## 👨‍💻 About Me
-
-🎓 Técnico em Desenvolvimento de Sistemas <br>
-💻 Estudante de programação e desenvolvimento de software <br>
-🚀 Interessado em backend, desenvolvimento web e criação de sistemas <br>
-🧠 Sempre aprendendo novas tecnologias e transformando ideias em projetos
-
-
-## 🚀 Projects
-
-🔹**Bibliotech** - Sistema ferramenta para acervo de livros de uma biblioteca
-
-🔹 **RestTail** — Sistema para gestão de clínica veterinária, pet shop e planos para pets.
-
-🔹 **Projetos Java** — Aplicações desenvolvidas para praticar POO, encapsulamento, herança e outras técnicas de programação.
-
-🔹 **Projetos Android** — Aplicativos desenvolvidos com Java e Android Studio.
-
-
 ## 📊 GitHub
 
 <p align="left">
@@ -62,6 +43,16 @@
   />
 </p>
 
+## 🚀 Projects
+
+🔹**Bibliotech** - Sistema ferramenta para acervo de livros de uma biblioteca
+
+🔹 **RestTail** — Sistema para gestão de clínica veterinária, pet shop e planos para pets.
+
+🔹 **Projetos Java** — Aplicações desenvolvidas para praticar POO, encapsulamento, herança e outras técnicas de programação.
+
+🔹 **Projetos Android** — Aplicativos desenvolvidos com Java e Android Studio.
+
 ## 📚 Currently Learning
 
 * Java & POO
@@ -71,6 +62,5 @@
 * Desenvolvimento Android
 * Git & GitHub
 
-## ☕ Building, learning, and evolving...
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
