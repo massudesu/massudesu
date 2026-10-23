@@ -32,16 +32,28 @@
 
 ## 📊 GitHub
 
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=massudesu&show_icons=true&theme=dark&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=massudesu&layout=compact&theme=dark&hide_border=true"
-    height="170"
-  />
-</p>
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=massudesu&theme=dark&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&sideLabels=DC143C&dates=FFFFFF"
+  alt="GitHub Streak Stats"
+/>
+
+<br/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=massudesu&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=DC143C&title_color=DC143C"
+  alt="GitHub Stats"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=massudesu&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=DC143C"
+  alt="Top Languages"
+/>
+
+</div>
 
 ## 🚀 Projects
 
@@ -64,3 +76,4 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
+
