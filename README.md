@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/GITHUB-85002B?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/PYTHON-99002F?style=for-the-badge&logo=python&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/JAVA-99002F?style=for-the-badge&logo=openjdk&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/SPRING_BOOT-A60032?style=for-the-badge&logo=springboot&logoColor=FFFFFF" />
+<!-- <img src="https://img.shields.io/badge/SPRING_BOOT-A60032?style=for-the-badge&logo=springboot&logoColor=FFFFFF" /> -->
 
 <!-- Crimson intermediário -->
 
